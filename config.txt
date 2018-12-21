@@ -1,0 +1,6 @@
+﻿token= NTI1NzU2OTI3MzcyODIwNDkw.Dv7zag.ya3M4L8mjqNT0ZvCuWvDKsBAV84
+owner= 520629080333352976
+prefix= E-
+game= Events.
+stayinchannel=true
+songinstatus=true 
